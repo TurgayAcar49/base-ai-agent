@@ -1,22 +1,31 @@
 # 🚀 Base AI Agent
 
-An autonomous AI agent built on Base ecosystem.
+An autonomous AI agent built for Base ecosystem.
 
 ## 🔥 Features
-- Automated on-chain data analysis
-- Opportunity detection
-- Continuous background execution
-- Low-cost AI integration
+- On-chain data analysis
+- AI-based insights
+- Automated monitoring
+- Low-cost execution
 
 ## 🧠 How it works
-1. Fetch on-chain data
-2. Analyze patterns
+1. Fetch blockchain data
+2. Analyze activity
 3. Generate insights
-4. Execute or notify
+4. Output signals
 
-## ⚙️ Setup
+## ▶️ Run
+python main.py
 
-```bash
-git clone ...
-cd base-ai-agent
-pip install -r requirements.txt
+## 📊 Example Output
+See data/sample.json
+
+## 🌐 Use Cases
+- Wallet tracking
+- Airdrop detection
+- Alpha discovery
+
+## 🛣️ Roadmap
+- [ ] Base API integration
+- [ ] Telegram bot
+- [ ] Web dashboard
